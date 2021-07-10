@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bf08efe8-125e-4094-8291-3f7284d37961",
+    "name": "Macbook Pro M4",
+    "description": "Apple laptop with M1 chip",
+    "price": 1500
+  },
+  {
+    "id": "1e87581a-dd7d-481c-be2d-4561ccafc8f9",
+    "name": "Macbook Pro M4",
+    "description": "Apple laptop with M1 chip",
+    "price": 1500
+  }
+]
